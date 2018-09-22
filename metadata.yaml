@@ -1,5 +1,8 @@
 _repo: The-Story-of-Justin-Martyr-and-Other-Poems_55507
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55507-h/images/cover.jpg
 creator:
   author:
     agent_name: Trench, Richard Chenevix
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2062
     wikipedia: http://en.wikipedia.org/wiki/Richard_Chenevix_Trench
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55507#The-Story-of-Justin-Martyr-and-Other-Poems
 gutenberg_issued: '2017-09-08'
 gutenberg_type: Text
 identifiers:
